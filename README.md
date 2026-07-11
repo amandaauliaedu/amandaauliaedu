@@ -27,7 +27,7 @@
  <a href="mailto:amandaauliacareer@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
- <a href="https://portofolio-delta-liard.vercel.app/">
+ <a href="https://https://portofolio-one-phi-86.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
